@@ -143,3 +143,281 @@
         }
     }
 ]
+
+[
+  {
+    "question": "What is the value of 7 + 5 * 2?",
+    "options": ["24", "17", "19", "22"],
+    "correct": "17",
+    "explanations": {
+      "24": "Incorrect! Remember, multiplication is performed before addition: 5 * 2 = 10, then 7 + 10 = 17.",
+      "17": "Correct! 7 + 5 * 2 equals 17.",
+      "19": "Incorrect! That result is too high.",
+      "22": "Incorrect! Not following the proper order of operations."
+    }
+  },
+  {
+    "question": "Solve for x: 2x - 4 = 10",
+    "options": ["5", "6", "7", "8"],
+    "correct": "7",
+    "explanations": {
+      "5": "Incorrect! 2 * 5 - 4 = 6, not 10.",
+      "6": "Incorrect! 2 * 6 - 4 = 8, which is too low.",
+      "7": "Correct! 2 * 7 - 4 = 14 - 4 = 10.",
+      "8": "Incorrect! 2 * 8 - 4 = 16 - 4 = 12."
+    }
+  },
+  {
+    "question": "What is the area of a circle with radius 3? (Use π = 3.14)",
+    "options": ["28.3", "18.8", "31.4", "27.0"],
+    "correct": "28.3",
+    "explanations": {
+      "28.3": "Correct! Area = πr² = 3.14 * 3² ≈ 3.14 * 9 ≈ 28.3.",
+      "18.8": "Incorrect! This value is too low.",
+      "31.4": "Incorrect! That result is too high.",
+      "27.0": "Incorrect! The correct area is approximately 28.3."
+    }
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+    "correct": "George Washington",
+    "explanations": {
+      "Abraham Lincoln": "Incorrect! Lincoln was the 16th President.",
+      "George Washington": "Correct! He was the first President of the United States.",
+      "Thomas Jefferson": "Incorrect! Jefferson was the third President.",
+      "John Adams": "Incorrect! Adams served as the second President."
+    }
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": ["1945", "1939", "1918", "1963"],
+    "correct": "1945",
+    "explanations": {
+      "1945": "Correct! World War II ended in 1945.",
+      "1939": "Incorrect! 1939 marks the start of World War II.",
+      "1918": "Incorrect! 1918 was the end of World War I.",
+      "1963": "Incorrect! That year is not associated with the end of WWII."
+    }
+  },
+  {
+    "question": "Which ancient civilization built the pyramids?",
+    "options": ["The Romans", "The Greeks", "The Egyptians", "The Mayans"],
+    "correct": "The Egyptians",
+    "explanations": {
+      "The Romans": "Incorrect! The Romans built many monuments, but not the pyramids.",
+      "The Greeks": "Incorrect! The Greeks are known for temples and theaters.",
+      "The Egyptians": "Correct! The Egyptians built the pyramids as tombs for pharaohs.",
+      "The Mayans": "Incorrect! Although the Mayans built stepped pyramids, the famous pyramids belong to Egypt."
+    }
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correct": "Nile River",
+    "explanations": {
+      "Amazon River": "Incorrect! The Amazon is the largest by volume, not length.",
+      "Nile River": "Correct! The Nile is generally considered the longest river in the world.",
+      "Yangtze River": "Incorrect! The Yangtze is the longest in Asia, but not overall.",
+      "Mississippi River": "Incorrect! The Mississippi is long but not the longest."
+    }
+  },
+  {
+    "question": "Which country has the largest land area?",
+    "options": ["USA", "Russia", "Canada", "China"],
+    "correct": "Russia",
+    "explanations": {
+      "USA": "Incorrect! The USA is large but not the largest by land area.",
+      "Russia": "Correct! Russia is the largest country in the world by land area.",
+      "Canada": "Incorrect! Canada is the second largest country.",
+      "China": "Incorrect! China is large, but not the largest."
+    }
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "correct": "Tokyo",
+    "explanations": {
+      "Tokyo": "Correct! Tokyo is the capital of Japan.",
+      "Kyoto": "Incorrect! Kyoto was once the capital, but not now.",
+      "Osaka": "Incorrect! Osaka is a major city, not the capital.",
+      "Hiroshima": "Incorrect! Hiroshima is known for its history, not as the capital."
+    }
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Rockies", "Himalayas", "Alps"],
+    "correct": "Himalayas",
+    "explanations": {
+      "Andes": "Incorrect! The Andes are in South America.",
+      "Rockies": "Incorrect! The Rockies are in North America.",
+      "Himalayas": "Correct! Mount Everest is part of the Himalayan mountain range.",
+      "Alps": "Incorrect! The Alps are located in Europe."
+    }
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Cell", "Atom", "Molecule", "Organ"],
+    "correct": "Cell",
+    "explanations": {
+      "Cell": "Correct! The cell is the basic unit of life.",
+      "Atom": "Incorrect! Atoms are building blocks, not the unit of life.",
+      "Molecule": "Incorrect! Molecules are combinations of atoms.",
+      "Organ": "Incorrect! Organs are made up of tissues, which in turn are made of cells."
+    }
+  },
+  {
+    "question": "Which organ is responsible for pumping blood?",
+    "options": ["Lungs", "Brain", "Heart", "Kidney"],
+    "correct": "Heart",
+    "explanations": {
+      "Lungs": "Incorrect! The lungs are for breathing.",
+      "Brain": "Incorrect! The brain controls functions, but the heart pumps blood.",
+      "Heart": "Correct! The heart is responsible for pumping blood throughout the body.",
+      "Kidney": "Incorrect! Kidneys filter blood, not pump it."
+    }
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "options": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+    "correct": "Photosynthesis",
+    "explanations": {
+      "Photosynthesis": "Correct! Plants use photosynthesis to convert sunlight into energy.",
+      "Respiration": "Incorrect! Respiration is the process of releasing energy.",
+      "Digestion": "Incorrect! Digestion is the process of breaking down food.",
+      "Fermentation": "Incorrect! Fermentation is used by yeast and bacteria to produce energy."
+    }
+  },
+  {
+    "question": "Which blood type is known as the universal donor?",
+    "options": ["A", "B", "AB", "O negative"],
+    "correct": "O negative",
+    "explanations": {
+      "A": "Incorrect! Blood type A is not universal.",
+      "B": "Incorrect! Blood type B is not universal.",
+      "AB": "Incorrect! AB is the universal recipient, not the donor.",
+      "O negative": "Correct! O negative blood is considered the universal donor."
+    }
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "correct": "Mitochondria",
+    "explanations": {
+      "Nucleus": "Incorrect! The nucleus stores genetic material.",
+      "Mitochondria": "Correct! Mitochondria produce energy for the cell.",
+      "Ribosome": "Incorrect! Ribosomes are involved in protein synthesis.",
+      "Endoplasmic Reticulum": "Incorrect! It plays a role in protein and lipid synthesis."
+    }
+  },
+  {
+    "question": "Which vitamin is produced when a person is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correct": "Vitamin D",
+    "explanations": {
+      "Vitamin A": "Incorrect! Vitamin A is important for vision.",
+      "Vitamin B": "Incorrect! Vitamin B is a group of vitamins, not produced by sunlight.",
+      "Vitamin C": "Incorrect! Vitamin C is obtained from fruits and vegetables.",
+      "Vitamin D": "Correct! Sunlight exposure helps the body produce Vitamin D."
+    }
+  },
+  {
+    "question": "What is the genetic material in most living organisms?",
+    "options": ["DNA", "RNA", "Protein", "Carbohydrate"],
+    "correct": "DNA",
+    "explanations": {
+      "DNA": "Correct! DNA carries genetic information.",
+      "RNA": "Incorrect! RNA plays a role in protein synthesis but is not the primary genetic material.",
+      "Protein": "Incorrect! Proteins perform various functions but aren’t the genetic material.",
+      "Carbohydrate": "Incorrect! Carbohydrates serve as energy sources."
+    }
+  },
+  {
+    "question": "What is the derivative of x²?",
+    "options": ["x", "2x", "x²", "2"],
+    "correct": "2x",
+    "explanations": {
+      "x": "Incorrect! The derivative of x² is not x.",
+      "2x": "Correct! The derivative of x² with respect to x is 2x.",
+      "x²": "Incorrect! That is the original function, not its derivative.",
+      "2": "Incorrect! That would be the derivative of 2x, not x²."
+    }
+  },
+  {
+    "question": "Who wrote the Declaration of Independence?",
+    "options": ["Benjamin Franklin", "Thomas Jefferson", "George Washington", "John Adams"],
+    "correct": "Thomas Jefferson",
+    "explanations": {
+      "Benjamin Franklin": "Incorrect! Franklin was influential but not the primary author.",
+      "Thomas Jefferson": "Correct! Jefferson was the principal author of the Declaration of Independence.",
+      "George Washington": "Incorrect! Washington was the first President, not the author.",
+      "John Adams": "Incorrect! Adams played an important role, but did not write it."
+    }
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "options": ["Asia", "Africa", "Europe", "South America"],
+    "correct": "Africa",
+    "explanations": {
+      "Asia": "Incorrect! Asia is the largest continent by population.",
+      "Africa": "Correct! Historically, Africa was referred to as the 'Dark Continent'.",
+      "Europe": "Incorrect! Europe is known for its cultural history.",
+      "South America": "Incorrect! South America is not commonly known by that nickname."
+    }
+  },
+  {
+    "question": "Which gas do animals exhale?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": "Carbon Dioxide",
+    "explanations": {
+      "Oxygen": "Incorrect! Animals inhale oxygen and exhale carbon dioxide.",
+      "Nitrogen": "Incorrect! Nitrogen makes up most of the air but is not exhaled significantly.",
+      "Carbon Dioxide": "Correct! Carbon dioxide is exhaled as a waste product of respiration.",
+      "Hydrogen": "Incorrect! Hydrogen is not a by-product of respiration."
+    }
+  },
+  {
+    "question": "Solve: 8/2(2+2)",
+    "options": ["1", "8", "16", "32"],
+    "correct": "16",
+    "explanations": {
+      "1": "Incorrect! That result does not follow the order of operations.",
+      "8": "Incorrect! Recalculate carefully.",
+      "16": "Correct! 8/2*(2+2) = 8/2*4 = 4*4 = 16.",
+      "32": "Incorrect! That value is too high."
+    }
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1989", "1975", "1991", "2000"],
+    "correct": "1989",
+    "explanations": {
+      "1989": "Correct! The Berlin Wall fell in 1989.",
+      "1975": "Incorrect! The fall occurred later.",
+      "1991": "Incorrect! That year is associated with the dissolution of the USSR.",
+      "2000": "Incorrect! That is too recent."
+    }
+  },
+  {
+    "question": "Which is the largest desert on Earth?",
+    "options": ["Sahara", "Arabian", "Gobi", "Antarctic Desert"],
+    "correct": "Antarctic Desert",
+    "explanations": {
+      "Sahara": "Incorrect! The Sahara is the largest hot desert, but not the largest overall.",
+      "Arabian": "Incorrect! The Arabian Desert is smaller than the Sahara.",
+      "Gobi": "Incorrect! The Gobi Desert is much smaller.",
+      "Antarctic Desert": "Correct! The Antarctic Desert is the largest desert on Earth."
+    }
+  },
+  {
+    "question": "What is the process by which cells divide to produce two identical daughter cells?",
+    "options": ["Mitosis", "Meiosis", "Binary Fission", "Cytokinesis"],
+    "correct": "Mitosis",
+    "explanations": {
+      "Mitosis": "Correct! Mitosis results in two identical daughter cells.",
+      "Meiosis": "Incorrect! Meiosis produces gametes with half the number of chromosomes.",
+      "Binary Fission": "Incorrect! Binary fission is common in prokaryotes, but the term here refers to mitosis.",
+      "Cytokinesis": "Incorrect! Cytokinesis is the final stage of cell division, not the entire process."
+    }
+  }
+]

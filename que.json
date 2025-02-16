@@ -416,7 +416,119 @@
             "Europe": "Europe has many countries but not as many as Africa.",
             "South America": "South America has only 12 countries, fewer than Africa."
         }
+    },
+  
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct": "Paris",
+        "explanations": {
+            "Berlin": "Berlin is the capital of Germany, not France.",
+            "Madrid": "Madrid is the capital of Spain, not France.",
+            "Paris": "Correct! Paris is the capital of France.",
+            "Rome": "Rome is the capital of Italy, not France."
+        }
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correct": "Mars",
+        "explanations": {
+            "Earth": "Earth is known as the Blue Planet due to its oceans.",
+            "Mars": "Correct! Mars appears red because of iron oxide (rust) on its surface.",
+            "Jupiter": "Jupiter is a gas giant and does not have a red appearance.",
+            "Venus": "Venus is covered with thick clouds and has a yellowish hue."
+        }
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Isaac Newton"],
+        "correct": "Alexander Graham Bell",
+        "explanations": {
+            "Alexander Graham Bell": "Correct! He is credited with inventing the telephone in 1876.",
+            "Thomas Edison": "Edison invented the phonograph and light bulb but not the telephone.",
+            "Nikola Tesla": "Tesla was a pioneer in electricity but did not invent the telephone.",
+            "Isaac Newton": "Newton was a physicist and mathematician, known for his laws of motion."
+        }
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correct": "Nile River",
+        "explanations": {
+            "Amazon River": "The Amazon is the second longest river, but it carries the most water.",
+            "Nile River": "Correct! The Nile is the longest river, stretching over 6,650 km.",
+            "Yangtze River": "The Yangtze is the longest river in Asia but not in the world.",
+            "Mississippi River": "The Mississippi is long but not the longest in the world."
+        }
+    },
+    {
+        "question": "Which gas do plants use for photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correct": "Carbon Dioxide",
+        "explanations": {
+            "Oxygen": "Plants release oxygen, but they do not use it for photosynthesis.",
+            "Carbon Dioxide": "Correct! Plants absorb CO2 from the air to produce oxygen and glucose.",
+            "Nitrogen": "Nitrogen is used for plant growth but not for photosynthesis.",
+            "Hydrogen": "Hydrogen is present in water, but CO2 is the primary gas used in photosynthesis."
+        }
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct": "Pacific Ocean",
+        "explanations": {
+            "Atlantic Ocean": "The Atlantic is the second largest, but not the largest.",
+            "Indian Ocean": "The Indian Ocean is the third largest ocean.",
+            "Arctic Ocean": "The Arctic Ocean is the smallest ocean on Earth.",
+            "Pacific Ocean": "Correct! The Pacific Ocean is the largest and deepest ocean."
+        }
+    },
+    {
+        "question": "Which is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "correct": "Vatican City",
+        "explanations": {
+            "Monaco": "Monaco is small but larger than Vatican City.",
+            "Vatican City": "Correct! Vatican City is the smallest country, covering just 0.49 sq km.",
+            "San Marino": "San Marino is one of the smallest but still larger than Vatican City.",
+            "Liechtenstein": "Liechtenstein is small but much larger than Vatican City."
+        }
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Gold", "Mercury", "Silver", "Copper"],
+        "correct": "Mercury",
+        "explanations": {
+            "Gold": "Gold is solid at room temperature.",
+            "Mercury": "Correct! Mercury is the only metal that remains liquid at room temperature.",
+            "Silver": "Silver is a solid metal at room temperature.",
+            "Copper": "Copper is also a solid metal at room temperature."
+        }
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "options": ["Germany", "France", "United Kingdom", "Canada"],
+        "correct": "France",
+        "explanations": {
+            "Germany": "Germany did not gift the Statue of Liberty.",
+            "France": "Correct! France gifted the Statue of Liberty to the USA in 1886.",
+            "United Kingdom": "The UK did not gift the Statue of Liberty.",
+            "Canada": "Canada did not gift the Statue of Liberty."
+        }
+    },
+    {
+        "question": "Which is the hottest planet in the Solar System?",
+        "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+        "correct": "Venus",
+        "explanations": {
+            "Mercury": "Mercury is closest to the sun but has no atmosphere to trap heat.",
+            "Venus": "Correct! Venus has a thick atmosphere of CO2, causing a greenhouse effect.",
+            "Mars": "Mars is cold and has a thin atmosphere.",
+            "Jupiter": "Jupiter is a gas giant and does not have a solid surface temperature."
+        }
     }
 ]
+
 
 

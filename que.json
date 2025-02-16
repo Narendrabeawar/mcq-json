@@ -273,5 +273,39 @@
       "Binary Fission": "Incorrect! Binary fission is common in prokaryotes, but the term here refers to mitosis.",
       "Cytokinesis": "Incorrect! Cytokinesis is the final stage of cell division, not the entire process."
     }
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct": "Paris",
+    "explanations": {
+      "Berlin": "Berlin is the capital of Germany, not France.",
+      "Madrid": "Madrid is the capital of Spain, not France.",
+      "Paris": "Correct! Paris is the capital of France.",
+      "Rome": "Rome is the capital of Italy, not France."
+    }
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Leo Tolstoy", "Jane Austen"],
+    "correct": "William Shakespeare",
+    "explanations": {
+      "Charles Dickens": "Dickens was famous for novels like 'Oliver Twist' and 'A Christmas Carol'.",
+      "William Shakespeare": "Correct! Shakespeare wrote 'Hamlet' in the early 1600s.",
+      "Leo Tolstoy": "Tolstoy was a Russian writer famous for 'War and Peace'.",
+      "Jane Austen": "Austen is best known for 'Pride and Prejudice'."
+    }
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct": "Mars",
+    "explanations": {
+      "Earth": "Earth is the Blue Planet, not the Red Planet.",
+      "Mars": "Correct! Mars is known as the Red Planet due to its reddish surface.",
+      "Jupiter": "Jupiter is the largest planet but not red.",
+      "Saturn": "Saturn is known for its rings, not for being red."
+    }
   }
 ]
+

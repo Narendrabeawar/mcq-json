@@ -306,6 +306,117 @@
       "Jupiter": "Jupiter is the largest planet but not red.",
       "Saturn": "Saturn is known for its rings, not for being red."
     }
-  }
+  },
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct": "Paris",
+        "explanations": {
+            "Berlin": "Berlin is the capital of Germany, not France.",
+            "Madrid": "Madrid is the capital of Spain, not France.",
+            "Paris": "Correct! Paris is the capital of France.",
+            "Rome": "Rome is the capital of Italy, not France."
+        }
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "correct": "Mars",
+        "explanations": {
+            "Earth": "Earth is known as the Blue Planet due to its oceans.",
+            "Mars": "Correct! Mars appears red because of iron oxide (rust) on its surface.",
+            "Jupiter": "Jupiter is a gas giant and does not have a red appearance.",
+            "Venus": "Venus is covered with thick clouds and has a yellowish hue."
+        }
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Isaac Newton"],
+        "correct": "Alexander Graham Bell",
+        "explanations": {
+            "Alexander Graham Bell": "Correct! He is credited with inventing the telephone in 1876.",
+            "Thomas Edison": "Edison invented the phonograph and light bulb but not the telephone.",
+            "Nikola Tesla": "Tesla was a pioneer in electricity but did not invent the telephone.",
+            "Isaac Newton": "Newton was a physicist and mathematician, known for his laws of motion."
+        }
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correct": "Nile River",
+        "explanations": {
+            "Amazon River": "The Amazon is the second longest river, but it carries the most water.",
+            "Nile River": "Correct! The Nile is the longest river, stretching over 6,650 km.",
+            "Yangtze River": "The Yangtze is the longest river in Asia but not in the world.",
+            "Mississippi River": "The Mississippi is long but not the longest in the world."
+        }
+    },
+    {
+        "question": "Which gas do plants use for photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correct": "Carbon Dioxide",
+        "explanations": {
+            "Oxygen": "Plants release oxygen, but they do not use it for photosynthesis.",
+            "Carbon Dioxide": "Correct! Plants absorb CO2 from the air to produce oxygen and glucose.",
+            "Nitrogen": "Nitrogen is used for plant growth but not for photosynthesis.",
+            "Hydrogen": "Hydrogen is present in water, but CO2 is the primary gas used in photosynthesis."
+        }
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+        "correct": "Isaac Newton",
+        "explanations": {
+            "Albert Einstein": "Einstein developed the theory of relativity, not gravity.",
+            "Isaac Newton": "Correct! Newton formulated the law of universal gravitation.",
+            "Galileo Galilei": "Galileo studied motion and astronomy but did not define gravity.",
+            "Nikola Tesla": "Tesla was known for electrical engineering, not gravity."
+        }
+    },
+    {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct": "Pacific Ocean",
+        "explanations": {
+            "Atlantic Ocean": "The Atlantic is the second largest, but not the largest.",
+            "Indian Ocean": "The Indian Ocean is the third largest ocean.",
+            "Arctic Ocean": "The Arctic Ocean is the smallest ocean on Earth.",
+            "Pacific Ocean": "Correct! The Pacific Ocean is the largest and deepest ocean."
+        }
+    },
+    {
+        "question": "Which is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "correct": "Vatican City",
+        "explanations": {
+            "Monaco": "Monaco is small but larger than Vatican City.",
+            "Vatican City": "Correct! Vatican City is the smallest country, covering just 0.49 sq km.",
+            "San Marino": "San Marino is one of the smallest but still larger than Vatican City.",
+            "Liechtenstein": "Liechtenstein is small but much larger than Vatican City."
+        }
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Pb", "Fe"],
+        "correct": "Au",
+        "explanations": {
+            "Ag": "Ag is the symbol for silver, not gold.",
+            "Au": "Correct! 'Au' comes from the Latin word 'Aurum' for gold.",
+            "Pb": "Pb is the symbol for lead, not gold.",
+            "Fe": "Fe is the symbol for iron, not gold."
+        }
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": ["Asia", "Africa", "Europe", "South America"],
+        "correct": "Africa",
+        "explanations": {
+            "Asia": "Asia is the largest continent but has fewer countries than Africa.",
+            "Africa": "Correct! Africa has 54 countries, the most of any continent.",
+            "Europe": "Europe has many countries but not as many as Africa.",
+            "South America": "South America has only 12 countries, fewer than Africa."
+        }
+    }
 ]
+
 
